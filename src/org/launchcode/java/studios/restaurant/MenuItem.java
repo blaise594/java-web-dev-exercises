@@ -8,11 +8,11 @@ public class MenuItem{
 	//It should be possible to display whether a menu item is new or not
     private boolean isNew;
 
-    public MenuItem(double p, String d, String c, boolean iN){
-        this.price=p;
-        this.description=d;
-        this.category=c;
-        this.isNew=iN;
+    public MenuItem(double price, String desc, String cat, boolean isNew){
+        this.price=price;
+        this.description=desc;
+        this.category=cat;
+        this.isNew=isNew;
     }
 
     //set price
