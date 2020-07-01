@@ -22,17 +22,52 @@ public class MenuItem{
     //set description
 
     public void setDescription(String description) {
+
         this.description = description;
+    }
+
+    //get description
+    public String getDescription(){
+        return description;
     }
 
     //set category
 
     public void setCategory(String category) {
+
         this.category = category;
     }
 
     //indicate whether new item
     public void setNew(boolean aNew) {
         isNew = aNew;
+    }
+    // A way to tell if a menu item is new.
+    public String isMenuItemNew(){
+        if(this.isNew){
+            return ("NEW");
+        }
+        else{
+            return ("");
+        }
+    }
+    // A way to print out a single menu item
+    public void printItem(MenuItem item){
+        String itemDescription=item.getDescription();
+        System.out.println(itemDescription);
+    }
+    // A way to determine whether or not two menu items are equal.
+    public boolean isEqual(MenuItem itemToCompare){
+        if( itemToCompare == this){
+            return true;
+        }
+        if(itemToCompare == null){
+            return false;
+        }
+        if(itemToCompare.getClass() != this.getClass()){
+            return false;
+        }
+        MenuItem theItem = (MenuItem) itemToCompare;
+        return theItem.getDescription() == getDescription();
     }
 }
