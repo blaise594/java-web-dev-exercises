@@ -1,3 +1,11 @@
+# Programs Built & Subjects Covered
+
+## [Control Flow & Collections](https://education.launchcode.org/java-web-development/chapters/control-flow-and-collections/index.html)
+
+[Program Build Instructions](https://education.launchcode.org/java-web-development/chapters/control-flow-and-collections/studio.html)
+
+[Watch Video Tutorial](https://www.youtube.com/watch?v=HKyK4wF4SoU)
+
 # About this Repository
 
 This repo contains starter code for the in-book examples for LaunchCode's
@@ -16,11 +24,5 @@ that will affect your coursework. When you start your prep-work for each
 lesson of the course, be sure to fetch to stay up to date with the 
 latest changes. 
 
-# Programs Built & Subjects Covered
 
-## [Control Flow & Collections](https://education.launchcode.org/java-web-development/chapters/control-flow-and-collections/index.html)
-
-[Program Build Instructions](https://education.launchcode.org/java-web-development/chapters/control-flow-and-collections/studio.html)
-
-[Watch Video Tutorial](https://www.youtube.com/watch?v=HKyK4wF4SoU)
 
