@@ -22,3 +22,5 @@ latest changes.
 
 [Program Build Instructions](https://education.launchcode.org/java-web-development/chapters/control-flow-and-collections/studio.html)
 
+[Watch Video Tutorial](https://www.youtube.com/watch?v=HKyK4wF4SoU)
+
