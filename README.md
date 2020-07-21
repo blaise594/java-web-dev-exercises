@@ -18,8 +18,9 @@ Click on the links in the headings of each section to be directed to the respect
 
 [Watch Video Tutorial : Counting Characters](https://www.youtube.com/watch?v=HKyK4wF4SoU)
 
-## Classes & Objects [Part 1](https://education.launchcode.org/java-web-development/chapters/classes/index.html) | [Part 2](https://education.launchcode.org/java-web-development/chapters/classes-part2/studio.html)
+## Classes & Objects: [Part 1](https://education.launchcode.org/java-web-development/chapters/classes/index.html) | [Part 2](https://education.launchcode.org/java-web-development/chapters/classes-part2/index.html)
 
 [Example Program Instructions : Restaurant Menu Part 1](https://education.launchcode.org/java-web-development/chapters/classes/studio.html)
 
+[Example Program Instructions : Restaurant Menu Part 2](https://education.launchcode.org/java-web-development/chapters/classes-part2/studio.html)
 
